@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import random
+import numpy as np
+import plotly.express as px
+...
 
 # --------------------------------------------------
 # PAGE CONFIGURATION
