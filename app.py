@@ -29,7 +29,7 @@ except:
 @st.cache_data
 def load_data():
 
-    df = pd.read_csv("data/Nassau Candy Distributor.csv")
+    df = pd.read_csv("Nassau Candy Distributor.csv"))
 
     factory_map = {
         "Wonka Bar - Nutty Crunch Surprise":"Lot's O' Nuts",
